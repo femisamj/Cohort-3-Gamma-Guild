@@ -449,13 +449,7 @@ Create a professional thread summarizing your research findings:
 5. **Final Tweet:** Tag the class account and use required hashtags
 
 #### **Required Hashtags:**
-- #Web3Research
-- #BlockchainNodes
-- #ConsensusAlgorithms
-- #DistributedLedger
-- #NFTs
-- #FungibleTokens
-- #Web3Journey
+- #MGSWEB3
 
 #### **Important:**
 - Make it educational and engaging
